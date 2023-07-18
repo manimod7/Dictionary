@@ -44,7 +44,3 @@ Dependencies
 
 Contributing
 - Contributions to the application are welcome. Feel free to fork the repository, make improvements, and submit a pull request.
-
-License
-- This project is licensed under the MIT License. See the LICENSE file for more details.
-
